@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=boolean\ isAtAnyEdge()
+comment2.params=
+comment2.target=void\ getCoin()
+comment3.params=
+comment3.target=void\ die()
+comment4.params=
+comment4.target=void\ restart()
+comment5.params=
+comment5.target=java.lang.String\ getGameState()
+comment6.params=
+comment6.target=FlappyBird()
+comment7.params=s
+comment7.target=void\ setSpeed(int)
+comment8.params=
+comment8.target=int\ getSpeed()
+comment9.params=cs
+comment9.target=void\ setState(IGameStates)
+numComments=10

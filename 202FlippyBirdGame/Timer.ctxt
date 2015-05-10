@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=boolean\ counter()
+comment2.params=timeVal
+comment2.target=void\ setTime(int)
+comment3.params=
+comment3.target=boolean\ isTimeUp()
+numComments=4
